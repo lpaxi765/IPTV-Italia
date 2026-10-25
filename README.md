@@ -59,7 +59,7 @@ MAN-GA\
 Gambero Rosso\
 SuperTV\
 HGTV - Home&Garden\
-Rai Scuola\
+Italiana\
 Rai Sport + HD\
 Turbo\
 Sportitalia\
