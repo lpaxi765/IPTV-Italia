@@ -1,5 +1,5 @@
 # IPTV Italia
-## **IPTV Lista Canali Italiani Free**
+## **Lista Canali Italiani Free**
 
 Apri questo indirizzo https://github.com/lpaxi765/IPTV/blob/main/IPTV_Free_Italy_Channel.m3u e scarica la versione più recente delle playlist (clicca su **Download raw file** in alto a destra), poi aprila con il tuo Media Player preferito.
 
